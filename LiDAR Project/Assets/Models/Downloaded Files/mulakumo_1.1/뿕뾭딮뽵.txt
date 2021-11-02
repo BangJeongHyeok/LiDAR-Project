@@ -1,0 +1,56 @@
+◆VRChat想定humanoid対応アバター
+　・SDK3.0のみ対応
+　・DynamicBone設定済み（耳・髪・尻尾）
+　・リップシンク、アイトラッキング対応（まばたき含む）
+　・シェイプキー　リップシンク+アイトラッキング用、表情改変用シェイプ7コ、目の形改変用シェイプ6コ
+　・服類と体は分離しています。
+
+◆ポリゴン数
+　総約△40000
+
+◆内容物
+　-murakumo.unitypackage
+     (VRChat用セットアップ済モデルデータが入っています。)
+　-利用規約.txt
+   -textureファイル
+      (テクスチャpngとpsdが入っています。）
+　-murakumo_rig.fbx
+
+◆利用方法
+　あらかじめ以下のものをインポートしてください。
+　・VRCSDK3.0AVATAR
+　・Unlit_WF_ShaderSuite
+　・DynamicBones（任意）
+　unitypackageをインポート後、murakumoファイル内のprefabをHierarchyに配置しVRChatのアバターアップロード方法に従ってご利用ください。
+
+◆注意事項
+　・BOOTHのシステム上ご返金はできません。
+　・各ソフトウェア、アプリでのアップデートで正常に動作しなくなる可能性があります。
+　・データを利用することによって生じた損害等について、作者は責任を負いません。
+　・その他なにかあればお気軽にメッセージ等ください。
+
+◆【利用規約】
+本モデルはUVライセンスで公開されています。
+本モデルでは基礎条項に加え、個別条項をもとに以下の行為を許可します。
+
+・個人の商用利用の許可
+・法人の利用の許可
+・二次的著作物の配布の許可
+・政治的利用、宗教的利用の許可
+・成人向け表現（性的表現）の許可
+・成人向け表現（暴力表現）の許可
+規約全文は下記URLを参照してください。
+https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&pru=true&seu=true&veu=true
+
+【Terms of Use】
+This model is released under UV license.
+This model allows the following actions based on Individual terms in addition to the Basic Terms.
+
+・Personal Commercial Use
+・Corporate Commercial Use
+・Distribution of Derivative Works
+・Political or Religeous Use
+・For Adults, Sexual Expressions Use
+・For Adults, Violence Expressions Use
+For the full text of the rules, please refer to the following URL.
+https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&pru=true&seu=true&veu=true
